@@ -268,5 +268,30 @@
 }
 
 .val p {
+  font-size: 15px;
+  font-weight: bold;
   padding-top: 6px;
+}
+
+.bordered {
+  border: 1px solid #ccc;
+  padding: 24px;
+  border-radius: 5px;
+}
+
+.header p {
+  font-size: 18px;
+}
+
+.header p b {
+  font-size: 20px;
+}
+
+.highlight {
+  color: #33C3F0;
+  font-weight: 400;
+}
+
+.value-prop h5 b {
+  font-weight: 400;
 }
